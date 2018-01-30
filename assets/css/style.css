@@ -109,44 +109,6 @@ aside h2 {
   border: 1px solid #ddd;
 }
 
-
-div.gallery {
-	position: relative;
-	text-align: center;
-	margin: 15px;
-	border: 1px solid #ccc;
-	width: 268px;
-	display: inline-block;
-
-}
-
-div.gallery:hover {
-	border: 2px solid #4aaaa5;
-}
-
-
-div.desc {
-	position: absolute;
-	top: 80%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	background-color: teal;
-	color: white;
-	width: 100%;
-}
-
-
-
-input[type=submit] {
-    background-color: #4aaaa5;
-    color: white;
-    font-size: 12pt;
-    padding: 15px 40px;
-    border: none;
-    cursor: pointer;
-}
-
-
 #footer {
 	clear: both;
 	position: fixed;
